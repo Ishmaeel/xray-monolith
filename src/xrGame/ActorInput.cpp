@@ -249,10 +249,10 @@ void CActor::IR_OnKeyboardPress(int cmd)
 							inventory().ClientEat(itm);
 						}
 
-						StaticDrawableWrapper* _s = CurrentGameUI()->AddCustomStatic("item_used", true);
-						string1024 str;
-						strconcat(sizeof(str), str, *CStringTable().translate("st_item_used"), ": ", itm->NameItem());
-						_s->wnd()->TextItemControl()->SetText(str);
+						//StaticDrawableWrapper* _s = CurrentGameUI()->AddCustomStatic("item_used", true);
+						//string1024 str;
+						//strconcat(sizeof(str), str, *CStringTable().translate("st_item_used"), ": ", itm->NameItem());
+						//_s->wnd()->TextItemControl()->SetText(str);
 
 						//CurrentGameUI()->GetActorMenu().m_pQuickSlot->ReloadReferences(this);
 					}
