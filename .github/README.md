@@ -10,6 +10,7 @@ This repository is imported from its origin at [bitbucket.org/anomalymod/xray-mo
 * Used to contain FDDA patches, but these are not needed for 1.5.2 anymore.
 
 The original [README](../README.md) from the original repository follows below.
+
 ----
 
 ## X-Ray Monolith Edition for S.T.A.L.K.E.R. Anomaly
