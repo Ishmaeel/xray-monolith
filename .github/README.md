@@ -9,6 +9,12 @@ This repository is imported from its origin at [bitbucket.org/anomalymod/xray-mo
 * Loading tips can be completely disabled by addon scripts.
 * Used to contain FDDA patches, but these are not needed for 1.5.2 anymore.
 
+The engine can be compiled in Visual Studio 2022 with the following prerequisites:
+* Download and install **Windows 8.1 SDK** from [Windows SDK and emulator archive](https://developer.microsoft.com/en-us/windows/downloads/sdk-archive/)
+* Install **MSVC v140 - VS 2015 C++ build tools (v14.00)** from within Visual Studio Installer.
+
+Open the solution in VS2022, select all projects and configurations in *Batch build* and start a build.
+
 The original [README](../README.md) from the original repository follows below.
 
 ----
