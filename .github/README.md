@@ -1,7 +1,7 @@
 ## X-Ray Monolith IshyBinaries Edition
 A personal fork for ~~discerning~~ nitpicking individuals.
 
-The original [README](README.md) from the original repository follows below.
+The original [README](../README.md) from the original repository follows below.
 
 ---
 
