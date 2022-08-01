@@ -1,9 +1,16 @@
-## X-Ray Monolith IshyBinaries Edition
+## X-Ray Monolith IshyBinaries Edition for S.T.A.L.K.E.R. Anomaly
+----
 A personal fork for ~~discerning~~ nitpicking individuals.
 
-The original [README](../README.md) from the original repository follows below.
+This repository is imported from its origin at [bitbucket.org/anomalymod/xray-monolith/](https://bitbucket.org/anomalymod/xray-monolith/src/master/) and modified for trivial personal preferences. No affiliation with S.T.A.L.K.E.R. Anomaly developers, GSC Game World or Sidorovich. 
 
----
+### Changes from the original 1.5.2
+* "Item used" message is not displayed for F1..F4 quick slots.
+* Loading tips can be completely disabled by addon scripts.
+* Used to contain FDDA patches, but these are not needed for 1.5.2 anymore.
+
+The original [README](../README.md) from the original repository follows below.
+----
 
 ## X-Ray Monolith Edition for S.T.A.L.K.E.R. Anomaly
 ----
